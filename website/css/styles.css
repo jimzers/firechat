@@ -48,6 +48,7 @@ header {
 
 .header-content {
   background-color: #ff8b00;
+  margin-top: 30px;
 }
 
 .header-links {
@@ -552,8 +553,3 @@ footer {
   }
 }
 
-
-
-.chat-container {
-  margin-top: 30px;
-}
